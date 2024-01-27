@@ -1,6 +1,6 @@
 # SystemInfoGUI
 An application built with PyQt and QML for displaying system information in a user-friendly graphical interface.
-
+![app screenshot](https://raw.githubusercontent.com/Honuratus/SystemInfoGUI/main/screenshot.png)
 
 
 
@@ -50,9 +50,7 @@ Run the app
 ```
 
 
-  
-## Ekran Görüntüleri
 
-![app screenshot](https://raw.githubusercontent.com/Honuratus/SystemInfoGUI/main/screenshot.png)
+
 
   
