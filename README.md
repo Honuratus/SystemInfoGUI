@@ -11,7 +11,7 @@ An application built with PyQt and QML for displaying system information in a us
 - Monitor GPU temperature
 - Modern user interface
 - Support for all platforms
-## Bilgisayarınızda Çalıştırın
+## Run on your local env
 
 Clone the Project
 
